@@ -1,4 +1,4 @@
-<img style="margin-right: 30px" width="800" height="800" src="https://github.com/Tuhin4042/resource/blob/main/RestaurantBash.png">
+<img style="margin-right: 30px" width="500" height="500" src="https://github.com/Tuhin4042/resource/blob/main/RestaurantBash.png">
 
 # Parizat Fastfood Corner - Food Ordering and Payment System
 
