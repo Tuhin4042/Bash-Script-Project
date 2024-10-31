@@ -34,11 +34,5 @@ To run this script, open it in a Bash terminal, where it will guide you through 
 ### Prerequisites
 - Bash shell environment.
 
-### Running the Script
-```bash
-# Make sure the script is executable
-chmod +x fastfood_order.sh
 
-# Run the script
-./fastfood_order.sh
 
